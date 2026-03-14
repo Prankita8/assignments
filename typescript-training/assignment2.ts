@@ -46,7 +46,7 @@ else
 }
 }
 evaluateloan(
-    "John Doe",   // customerName
+    "Prankita Gaikwad",   // customerName
     655,          // creditScore
     830000.0,      // income
     true,         // isEmployed
